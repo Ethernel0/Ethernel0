@@ -1,8 +1,11 @@
 # Hello and Welcome !
 
 Name      : Ethernel
+
 Age       : 19
+
 Location  : France
+
 Hobby     : Computers, Sport(Weight lifting, Calisthenics, Boxing, Wrestling)
 
 
