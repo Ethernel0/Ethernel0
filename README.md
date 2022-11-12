@@ -8,6 +8,8 @@ Location  : France
 
 Hobby     : Computers, Sport(Weight lifting, Calisthenics, Boxing, Wrestling)
 
+Language  : Chechen, Russian, French, English
+
 
 ### Currently learning /language:
   - C++       < Main language I'm learning
