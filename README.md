@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello and Welcome !
 
-<!--
-**Ethernel0/Ethernel0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Name      : Ethernel
+Age       : 19
+Location  : France
+Hobby     : Computers, Sport(Weight lifting, Calisthenics, Boxing, Wrestling)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently learning /language:
+  - C++       < Main Language
+  - Rust      < For fun
+  
+  
+### Interested in:
+ - Computer Vision    < Actual     
+ - Game engines       < In future
+ - 
