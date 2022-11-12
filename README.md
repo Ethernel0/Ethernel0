@@ -7,11 +7,13 @@ Hobby     : Computers, Sport(Weight lifting, Calisthenics, Boxing, Wrestling)
 
 
 ### Currently learning /language:
-  - C++       < Main Language
-  - Rust      < For fun
+  - C++       < Main language I'm learning
+  - Rust      < 2nd language I learn when I have the time
   
   
 ### Interested in:
- - Computer Vision    < Actual     
- - Game engines       < In future
- - 
+  - Computer Vision      < Using OpenCV    
+  - Concurrency          < Mainly threads
+  - Making Tools         < Task automation 
+  - Game engines         < In future
+  - Game reversing       < In future
