@@ -26,6 +26,6 @@ Hobby     : Computers, Sport(Weight lifting, Calisthenics, Boxing, Wrestling)
 - [ ] Public personal project 
 
 
-> Your life is defined by your relationship with it
-> I don't care about being happy, if I can move foward and improve it's fulfilling"
+> "Your life is defined by your relationship with it"
+> "I don't care about being happy, if I can move foward and improve it's fulfilling"
 Iris
